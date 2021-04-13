@@ -1,0 +1,21 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  background-color: whitesmoke;
+}
+input {
+  padding: 1rem;
+  width: 80%;
+  border: 2px double lightblue;
+}
+
+h1 {
+  margin: 3rem;
+}
+
+input:hover {
+  border-color: goldenrod;
+}
